@@ -1,4 +1,4 @@
-<img width="454" height="293" alt="Screenshot 2026-05-18 at 8 21 25 AM" src="https://github.com/user-attachments/assets/2279673f-5c98-44b8-ae7c-210d32e50d0d" /># Assignment 4: Graph Traversal and Representation System
+ Assignment 4: Graph Traversal and Representation System
 
 > **Course**: Algorithm Design and Structures (ADS)  
 > **Author**: Amir Saulebekov  
