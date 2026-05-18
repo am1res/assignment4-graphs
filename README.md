@@ -1,4 +1,4 @@
-# Assignment 4: Graph Traversal and Representation System
+<img width="454" height="293" alt="Screenshot 2026-05-18 at 8 21 25 AM" src="https://github.com/user-attachments/assets/2279673f-5c98-44b8-ae7c-210d32e50d0d" /># Assignment 4: Graph Traversal and Representation System
 
 > **Course**: Algorithm Design and Structures (ADS)  
 > **Author**: Amir Saulebekov  
@@ -170,11 +170,10 @@ Entry point. Creates three graphs and runs experiments:
 
 | Graph Size | Vertices | Edges | BFS Time (ns) | DFS Time (ns) |
 |------------|----------|-------|---------------|---------------|
-| Small      | 10       | 12    | *(see screenshot)* | *(see screenshot)* |
-| Medium     | 30       | ~50   | *(see screenshot)* | *(see screenshot)* |
-| Large      | 100      | ~160  | *(see screenshot)* | *(see screenshot)* |
+| Small      | 10       | 12    | in docs screenshots | in docs screenshots |
+| Medium     | 30       | ~50   | in docs screenshots | in docs screenshots |
+| Large      | 100      | ~160  | in docs screenshots | in docs screenshots |
 
-> Screenshots of actual execution times are in `docs/screenshots/`
 
 ### Observations
 
@@ -211,16 +210,16 @@ DFS can get "trapped" going deep into a long path while a short path to the goal
 ## Screenshots
 
 ### Graph Structure Output
-*(Paste screenshot of `printGraph()` output here)*
+in docs screenshots
 
 ### BFS Traversal Output
-*(Paste screenshot of BFS traversal order here)*
+in docs screenshots
 
 ### DFS Traversal Output
-*(Paste screenshot of DFS traversal order here)*
+in docs screenshots
 
 ### Performance Results Table
-*(Paste screenshot of final comparison table here)*
+in docs screenshots
 
 ---
 
